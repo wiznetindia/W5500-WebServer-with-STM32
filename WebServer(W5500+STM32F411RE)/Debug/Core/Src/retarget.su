@@ -1,0 +1,7 @@
+retarget.c:22:6:RetargetInit	16	static
+retarget.c:30:5:_isatty	16	static
+retarget.c:38:5:_write	32	static
+retarget.c:52:5:_close	16	static
+retarget.c:60:5:_lseek	24	static
+retarget.c:69:5:_read	32	static
+retarget.c:83:5:_fstat	16	static
